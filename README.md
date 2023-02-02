@@ -3,7 +3,7 @@
         <p align=center>
             <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150">
         </p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+👋,+I'm+✨+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;Algorand+Blockchain+Developer;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%233742fa&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+👋,+I'm+✨+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;Algorand+Blockchain+Developer;" alt="Headline" />
     </div>
     <div align=center>
         <p align=center>
@@ -36,9 +36,6 @@
                 I am a software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
             </strong>
-            <div>
-                <img src="https://github.com/idyassineSmail/idyassineSmail/blob/output/github-contribution-grid-snake.svg" />
-            </div>
         </p>
     </div>
     </br>
