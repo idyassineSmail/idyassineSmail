@@ -5,6 +5,15 @@
         </p>
         <img src="https://readme-typing-svg.herokuapp.com?color=%233742fa&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+✨+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;Algorand+Blockchain+Developer;" alt="Headline" />
     </div>
+    <br/>
+    <div align=center>
+        <p>
+            <strong>
+                I am a software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
+                <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+            </strong>
+        </p>
+    </div>
     <div align=center>
         <p align=center>
             <a href="https://www.linkedin.com/in/smail-id-yassine-29981919b/">
@@ -27,18 +36,8 @@
             <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/idyassineSmail?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
         </a>
     </div>
-    <br>
-    <br>
-    <br>
-    <div align=center>
-        <p>
-            <strong>
-                I am a software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
-                <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-            </strong>
-        </p>
-    </div>
-    </br>
+    <br/>
+    <br/>
     <div align=center>
         <h1>🛠️ My Skills</h1>
         <details align="" open> 
