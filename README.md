@@ -3,7 +3,7 @@
         <p align=center>
             <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150">
         </p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%233742fa&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm ID YASSINE Smail+✨+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;Algorand+Blockchain+Developer;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%233742fa&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+ID+YASSINE+Smail+✨+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;Algorand+Blockchain+Developer;" alt="Headline" />
     </div>
     <br/>
     <div align=center>
